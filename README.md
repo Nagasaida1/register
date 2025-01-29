@@ -30,7 +30,7 @@ This is a simple Express.js application for handling user registration with `POS
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/express-registration.git
+   git clone https://github.com/Nagasaida1/register/.git
 Navigate into the project directory:
 
 bash
